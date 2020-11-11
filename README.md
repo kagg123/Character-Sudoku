@@ -2,7 +2,7 @@
 
 Implements a 4 by 4 character sudoku. The objective is to fill each square of the puzzle. No 2 charaters can be in the same row, column, or box. Implemented on DE1-Soc Altera.
 
-2 different sets of characters- 
+4 unique games 2 different sets of characters- 
 Set 1- Toad, Patrick, Spongebob, and Minion
 Set 2- Toadette, Pig, Bee, Evil Minion
 
